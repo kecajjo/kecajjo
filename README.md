@@ -2,7 +2,7 @@
 
 My name is Jacek and I'm student of University of Science and Technology in Wroclaw.
 
-I'm currently working on a low-budget floor cleaning robot basing on STM32 microcontroller.
+I'm currently working on a low-budget STM32 based floor cleaning robot.
 ___
 #### Favourite technologies:
 `C++`
