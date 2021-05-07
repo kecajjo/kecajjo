@@ -1,4 +1,16 @@
-### Hi there 👋
+### Hi!
+
+I'm student of University of Science and Technology in Wroclaw\
+
+#### Favourite technologies:
+`C++`
+`C`
+`git`
+`STM32`
+`AVR`
+`Linux`
+
+
 
 <!--
 **kecajjo/kecajjo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
