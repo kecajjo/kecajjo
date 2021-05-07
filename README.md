@@ -1,6 +1,6 @@
 ### Hi!
 
-I'm student of University of Science and Technology in Wroclaw\
+My name is Jacek and I'm student of University of Science and Technology in Wroclaw\
 
 #### Favourite technologies:
 `C++`
@@ -10,6 +10,11 @@ I'm student of University of Science and Technology in Wroclaw\
 `AVR`
 `Linux`
 
+#### My interests:
+`Embedded systems`
+`Low-level programming`
+`Origami`
+`Table tennis`
 
 
 <!--
