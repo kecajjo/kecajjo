@@ -20,7 +20,7 @@ ___
 :ski: `Skiing`
 ___
 :camera: [My gallery](https://www.flickr.com/photos/129012124@N02)\
-![alt text](https://farm66.static.flickr.com/65535/48349543377_e2ea925aa6.jpg)
+![alt text](https://farm66.static.flickr.com/65535/48349543377_e2ea925aa6.jpg)\
 _Valse designed by Hubert Villeneuve, folded by Jacek Multan_
 
 
